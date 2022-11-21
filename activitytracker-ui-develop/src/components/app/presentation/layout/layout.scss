@@ -1,0 +1,13 @@
+.layout{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #f2f8fc;
+    
+        .layoutContent {
+     display: inline-flex;
+     position: fixed;
+     margin-top: 55px;
+    }
+
+}

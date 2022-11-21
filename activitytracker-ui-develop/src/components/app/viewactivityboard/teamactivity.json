@@ -1,0 +1,38 @@
+[
+    {
+        "SI no": "1.",
+        "Description": "core java on skillshare",
+        "start Date": "20/10/2022",
+        "End Date": "20/05/2023",
+        "Employee Name": "Ron Ericson",
+        "Assigned By": "Kit Ramsey",
+        "progress": "Inactive"
+    },
+    {
+        "SI no": "2.",
+        "Description": "Javascript",
+        "start Date": "20/10/2022",
+        "End Date": "20/05/2023",
+        "Employee Name": "John",
+        "Assigned By": "Raj ",
+        "progress": "Inprogress"
+    },
+    {
+        "SI no": "3.",
+        "Description": ".Net",
+        "start Date": "20/10/2022",
+        "End Date": "20/05/2023",
+        "Employee Name": "Peter",
+        "Assigned By": "Umesh",
+        "progress": "Inactive"
+    },
+    {
+        "SI no": "4.",
+        "Description": "Python",
+        "start Date": "20/10/2022",
+        "End Date": "20/05/2023",
+        "Employee Name": "stella",
+        "Assigned By": "Mahesh",
+        "progress": "Active"
+    }
+]

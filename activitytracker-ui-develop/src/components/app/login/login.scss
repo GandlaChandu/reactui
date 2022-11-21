@@ -1,0 +1,123 @@
+.loginPage {
+  hr {
+    border: 0;
+    height: 2px;
+    width: 120px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0), rgba(0, 0, 0, 0));
+  }
+
+  .loginform {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 350px;
+    height: 490px;
+    background-color: white;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin-left: 380px;
+    margin-top: 80px;
+    margin-right: 800px;
+    padding: 10px;
+    border-radius: 15px;
+    /* font-family: Poppins; */
+    font-size: 16px;
+
+    #image {
+      height: 150px;
+      width: 150px;
+      margin-left: 100px;
+      margin-top: -50px;
+      margin-bottom: -40px;
+    }
+
+    .head {
+      justify-content: center;
+      align-items: center;
+      display: flex;
+      /* margin: 10px; */
+      font-size: 23px;
+      color: #301591;
+      font-weight: 700;
+      margin-bottom: 20px;
+      margin-top: 20px;
+    }
+
+    .loginbox {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+
+      .credentials:active {
+        border: solid 1px gray;
+      }
+
+      .credentials {
+        width: 300px;
+        border: 2px solid rgb(177, 173, 173);
+        border-radius: 3px;
+        margin: 10px 10px 10px 0px;
+        padding: 5px;
+        height: 18px;
+      }
+
+      #forgotPassword {
+        margin-left: 190px;
+        text-decoration: underline;
+        color: rgb(102, 100, 100);
+        font-weight: 600;
+      }
+
+      #or {
+        display: flex;
+        flex-direction: row;
+        margin: 10px;
+
+        #hr2 {
+          border: 0;
+          height: 2px;
+          width: 120px;
+          background-image: linear-gradient(to left, rgba(0, 0, 0), rgba(0, 0, 0, 0));
+        }
+
+        #divider {
+          margin-top: -6px;
+          padding: 2px 13px 3px 13px;
+          /* font-size: 16px; */
+          font-weight: 700;
+        }
+      }
+
+      label {
+        margin: 20px 20px 20px 0px;
+        font-weight: 600;
+      }
+
+      .log {
+        background-color: #1a0a53;
+        height: 37px;
+        width: 300px;
+        border: none;
+        margin: 20px 27px 0px 27px;
+        color: white;
+        border-radius: 4px;
+        font-size: 16px;
+      }
+
+      .sso {
+        background-color: #180850;
+        height: 37px;
+        width: 300px;
+        border: none;
+        margin: 10px;
+        color: white;
+        border-radius: 4px;
+        font-size: 16px;
+      }
+    }
+  }
+}
+
+// body {
+// overflow: hidden;
+// }

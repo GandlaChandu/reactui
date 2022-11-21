@@ -1,0 +1,26 @@
+.mainPage {
+    background-color: RGB(170 187 204);
+    font-family: 'DIN Regular';
+}
+
+.heading {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(0, 0, 0, 0);
+    font-size: 18px;
+    line-height: 22px;
+    text-transform: none;
+    text-decoration: none solid rgb(85, 85,85);
+    vertical-align: baseline;
+
+}
+
+.common-button {
+    color: rgb(73, 73, 73);
+    background-color: rgb(255, 255, 255);
+    font-family: 'DIN bold';
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0.5px;
+    vertical-align: middle;
+    text-transform: uppercase;
+}

@@ -1,0 +1,62 @@
+
+{
+    "UserDetails":
+[
+    {
+    "id":1,
+    "name":"Ramprasad Bairi",
+    "active":true,
+    "email":"ramprasad@gmail.com",
+    "workLocation":"gar",
+    "managerId":-1,
+    "isSupervisor":true
+    },
+    {
+    "id":2,
+    "name":"Sarthak Dixit",
+    "active":true,
+    "email":"sarthak@gmail.com",
+    "workLocation":"noida",
+    "managerId":1,
+    "isSupervisor":false
+    },
+    {
+    "id":3,
+    "name":"Jatin A",
+    "active":true,
+    "email":"jatin@gmail.com",
+    "workLocation":"noida",
+    "managerId":1,
+    "isSupervisor":false
+    },
+    
+    {
+    "id":4,
+    "name":"Satyam",
+    "active":true,
+    "email":"Satyam@gmail.com",
+    "workLocation":"noida",
+    "managerId":1,
+    "isSupervisor":false
+    },
+    {
+    "id":5,
+    "name":"Akhil Reddy",
+    "active":true,
+    "email":"akhil@gmail.com",
+    "workLocation":"noida",
+    "managerId":1,
+    "isSupervisor":false
+    },
+    {
+    "id":6,
+    "name":"Yash Namdev",
+    "active":true,
+    "email":"yash@gmail.com",
+    "workLocation":"noida",
+    "managerId":1,
+    "isSupervisor":false
+    }
+    ]
+}
+    

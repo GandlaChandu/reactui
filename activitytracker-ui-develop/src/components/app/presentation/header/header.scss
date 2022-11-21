@@ -1,0 +1,80 @@
+.Header {
+  background-color: #093E7D;
+  color: white;
+  height: 65px;
+  width: 100%;
+
+
+
+}
+
+.Header-Items {
+  list-style: none;
+
+}
+
+
+
+.Title {
+  float: left;
+  list-style: none;
+  margin-left: -40px;
+  margin-top: -20px;
+}
+
+.Title h2 {
+  margin-top: 20px;
+  margin-left: 75px;
+}
+
+.Title h4 {
+ 
+  margin-left: 75px;
+  font-weight: lighter;
+  color: antiquewhite;
+
+
+}
+
+.Image {
+  float: right;
+  margin-right: 20px;
+  margin-left: 10px;
+
+}
+
+.ImgStyle {
+  border: 1px solid none;
+  margin-top: 10px;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+
+
+
+}
+
+.DropdownList {
+  list-style: none;
+  position: absolute;
+  color: black;
+  background-color: white;
+  width: 70px;
+  padding: 5px
+}
+
+.Notification {
+  float: right;
+  font-size: 20px;
+  border: 1px solid skyblue;
+  width: 30px;
+  height: 30px;
+  background-color: skyblue;
+  list-style: none;
+  margin-top: 20px;
+
+}
+
+.Notification i {
+  margin-left: 5px;
+}

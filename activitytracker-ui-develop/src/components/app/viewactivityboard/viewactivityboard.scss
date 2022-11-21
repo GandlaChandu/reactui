@@ -1,0 +1,59 @@
+.activityboard {
+  .content {
+    font-style: normal;
+    font-size: 16px;
+    line-height: 20px;
+    color: rgba(1, 6, 8, 0.9);
+    height: 100vh;
+    width: 100vw;
+    // margin-left: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+#table,
+#table1 {
+  border-collapse: collapse;
+  width: 1000px;
+}
+
+th,
+td {
+  padding: 5px 15px;
+  border-bottom: solid 1px #ddd;
+  text-align: left;
+}
+
+.TeamButton,
+.SelfButton {
+  text-align: center;
+  padding: 10px 30px;
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.TeamButton {
+  margin-right: 5px;
+}
+
+.Highlight {
+  background-color: rgb(4, 4, 81);
+  color: white;
+}
+
+th {
+  background-color: #a3c8e2;
+}
+
+.Styling {
+  border-radius: 25px;
+  width: 35px;
+  height: 15px;
+}
+
+.Links {
+  color: rgb(12, 12, 238);
+}
